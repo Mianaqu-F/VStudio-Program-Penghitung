@@ -56,6 +56,10 @@ Input yang Anda masukkan tidak valid. Pastikan menggunakan angka untuk berat dan
 ## Kontribusi
 Pull request dipersilakan. Untuk perubahan besar, harap buka issue terlebih dahulu untuk mendiskusikan apa yang ingin Anda ubah.
 
---- 
+---
+[Instagram](https://www.instagram.com/mianaqu/)
 
+## Penulis
+- Nama: **[Michael Andrea Aquino]**
+- NIM: **[312310703]**
 
